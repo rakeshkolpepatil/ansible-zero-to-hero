@@ -1,5 +1,5 @@
 # How to setup Passwordless Authentication
-You need to use your ssh key or password only once while setting the Passwordless Authentication.
+You need to use your ssh key or password only once while setting the Passwordless Authentication. For all other subsequent accesses you do not need to specify keys explicitly. 
 
 ## EC2 Instances
 
